@@ -5471,9 +5471,6 @@ span.discrypt:hover {
 }
 
 /* USER POPOUT */
-.user-popout {
-    background: transparent !important;
-}
 .user-popout::before {
     content: "";
     position: absolute;
